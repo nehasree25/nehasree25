@@ -33,9 +33,6 @@ Passionate about building scalable backend systems, REST APIs, and AI-powered ap
 ---
 
 Feel free to connect, collaborate, and share knowledge. I'm always happy to learn from others, discuss ideas, and work on interesting projects together.
-
----
-
-⭐ Thanks for visiting my profile!
+Thanks for visiting my profile!
 
 
