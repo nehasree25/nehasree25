@@ -32,12 +32,6 @@ Passionate about building scalable backend systems, REST APIs, and AI-powered ap
 
 ---
 
-## 🤝 Connect With Me
-
-* LinkedIn: https://linkedin.com/in/nehasreemendu
-* GitHub: https://github.com/nehasree25
-* Email: [nehamendu25@gmail.com](mailto:nehamendu25@gmail.com)
-
 Feel free to connect, collaborate, and share knowledge. I'm always happy to learn from others, discuss ideas, and work on interesting projects together.
 
 ---
