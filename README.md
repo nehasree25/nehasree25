@@ -40,13 +40,15 @@ Beyond technology, I enjoy drawing, listening to music, and continuously learnin
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nehasreemendu" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="35" height="35"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="mailto:nehasreemendu@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="35" height="35"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  &nbsp;
   <a href="https://nehasree25.github.io/Neha-portfolio/" target="_blank">
-    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="35" height="35"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 ---
