@@ -1,8 +1,14 @@
-# 👋 Hi, I'm Neha Sree Mendu
+# Hello, I'm Neha Sree Mendu
 
 ### Backend Developer | AI Enthusiast
 
-Passionate about building scalable backend systems, REST APIs, and AI-powered applications. I enjoy turning ideas into practical solutions and continuously exploring new technologies through hands-on projects and real-world problem solving.
+## 👩‍💻 About Me
+
+I'm a B.Tech Information Technology student with a strong interest in backend development, artificial intelligence, and computer vision. I enjoy building efficient software solutions, exploring emerging technologies, and applying my knowledge to solve real-world problems.
+
+I'm passionate about continuous learning and believe the best way to grow is through hands-on experience. I enjoy exploring new frameworks, improving my problem-solving skills, and expanding my knowledge of software engineering and AI.
+
+Beyond technology, I enjoy drawing, singing, and constantly working on improving both my technical expertise and communication skills. I'm always excited to connect with fellow developers, learn from the community, and contribute to meaningful projects.
 
 ---
 
