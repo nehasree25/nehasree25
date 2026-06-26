@@ -38,9 +38,17 @@ Beyond technology, I enjoy drawing, listening to music, and continuously learnin
 ---
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/nehasreemendu
-- Email: nehasreemendu@gmail.com
-- Portfolio: https://nehasree25.github.io/Neha-portfolio/
+<p align="left">
+  <a href="https://www.linkedin.com/in/nehasreemendu" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="35" height="35"/>
+  </a>
+  <a href="mailto:nehasreemendu@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="35" height="35"/>
+  </a>
+  <a href="https://nehasree25.github.io/Neha-portfolio/" target="_blank">
+    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="35" height="35"/>
+  </a>
+</p>
 ---
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
