@@ -1,4 +1,4 @@
-# Hello, I'm Neha Sree Mendu
+# 👋 Hello, I'm Neha Sree Mendu
 
 ### Backend Developer | AI Enthusiast
 
@@ -35,6 +35,12 @@ Beyond technology, I enjoy drawing, listening to music, and continuously learnin
 * Full-stack web applications
 * Database-driven platforms
 * Secure authentication systems using JWT
+---
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/nehasreemendu
+- Email: nehasreemendu@gmail.com
+- Portfolio: https://nehasree25.github.io/Neha-portfolio/
 ---
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
