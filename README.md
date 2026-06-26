@@ -19,6 +19,8 @@ Passionate about building scalable backend systems, REST APIs, and AI-powered ap
 [<img alt="Git" align="center" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />](https://git-scm.com/)
 [<img alt="GitHub" align="center" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />](https://github.com/)
 [<img alt="Postman" align="center" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" />](https://www.postman.com/)
+[<img alt="MediaPipe" align="center" src="https://img.shields.io/badge/-MediaPipe-0097A7?style=flat&logo=google&logoColor=white" />](https://mediapipe.dev/)
+[<img alt="OpenCV" align="center" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />](https://opencv.org/)
 
 ---
 
