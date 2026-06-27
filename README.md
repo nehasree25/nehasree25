@@ -37,21 +37,21 @@ Beyond technology, I enjoy drawing, listening to music, and continuously learnin
 * Secure authentication systems using JWT
 ---
 ## 📫 Connect With Me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/nehasreemendu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="mailto:nehasreemendu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
   <a href="https://nehasree25.github.io/Neha-portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
----
+
+----
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 
