@@ -25,6 +25,7 @@ Beyond technology, I enjoy drawing, listening to music, and continuously learnin
 [<img alt="Postman" align="center" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" />](https://www.postman.com/)
 [<img alt="MediaPipe" align="center" src="https://img.shields.io/badge/-MediaPipe-0097A7?style=flat&logo=google&logoColor=white" />](https://mediapipe.dev/)
 [<img alt="OpenCV" align="center" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />](https://opencv.org/)
+[<img alt="React" align="center" src="https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB" />](https://react.dev/)
 
 ---
 
