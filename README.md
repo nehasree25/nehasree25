@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Neha Sree Mendu
+# 👋 Hello, I'm Neha
 
 ### Backend Developer | AI Enthusiast
 
