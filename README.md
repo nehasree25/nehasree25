@@ -1,12 +1,12 @@
-# 👋 Hello, I'm Neha
+# Hello, I'm Neha
 
 ### Backend Developer | AI Enthusiast
 
-I'm a B.Tech Information Technology student with a strong interest in backend development, artificial intelligence, and computer vision. I enjoy building efficient software solutions, exploring emerging technologies, and applying my knowledge to solve real-world problems.
+I have a strong interest in Backend Development, Artificial Intelligence, and Computer Vision, with a passion for building efficient, scalable software solutions and exploring emerging technologies to solve real-world problems.
 
-I'm passionate about continuous learning and believe the best way to grow is through hands-on experience. I enjoy exploring new frameworks, improving my problem-solving skills, and expanding my knowledge of software engineering and AI.
+I believe in continuous learning and hands-on experience as the foundation of professional growth. I enjoy exploring new frameworks and tools, strengthening my problem-solving abilities, and expanding my knowledge of software engineering and AI.
 
-Beyond technology, I enjoy drawing, listening to music, and continuously learning new skills. I'm passionate about improving both my technical expertise and communication abilities, and I always look forward to connecting with fellow developers, learning from the community, and contributing to meaningful projects.
+Beyond technology, I enjoy drawing, listening to music, and exploring new areas of learning. I look forward to connecting with like-minded professionals, collaborating with developer communities, sharing knowledge, and contributing to meaningful projects.
 
 ---
 
